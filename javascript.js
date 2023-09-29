@@ -1,1 +1,3 @@
-alert("javascript");
+function tampil() {
+    alert("javascript");
+}
