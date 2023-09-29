@@ -1,3 +1,3 @@
 function tampil() {
-    alert("javascript");
+   document.getElementById("saya").innerHTML = "javascript";
 }
